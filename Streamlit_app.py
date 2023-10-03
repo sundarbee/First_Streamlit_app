@@ -1,3 +1,5 @@
 import streamlit
-streamlit.title("My New Project")
-streamlit.title("Second Line of the project")
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
